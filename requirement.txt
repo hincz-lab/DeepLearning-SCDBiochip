@@ -1,4 +1,4 @@
-Keras==2.4.3
+keras==2.4.3
 tensorflow-gpu==2.3.1
 matplotlib==3.1.1
 scipy==1.4.1
