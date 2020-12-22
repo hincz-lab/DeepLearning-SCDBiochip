@@ -17,7 +17,7 @@ def standard_norm(img):
 
 def call_model(path, filename):
     # load json and create model
-    json_file = open(path + filename + '.json', 'r')
+    json_file = open(path + filename.replace('.h5','').replace('.json','') + '.json', 'r')
     loaded_model_json = json_file.read()
     json_file.close()
     loaded_model = model_from_json(loaded_model_json)
