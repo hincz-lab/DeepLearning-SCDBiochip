@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hincz-lab/DeepLearning-SCDBiochip/blob/master/Main2_google-collab.ipynb\]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hincz-lab/DeepLearning-SCDBiochip/blob/master/Main2_google-collab.ipynb)]
 
 # Welcome to Integrating Deep Learning with Microfluidics for Biophysical Classification of Sickle Red Blood Cells 
 
