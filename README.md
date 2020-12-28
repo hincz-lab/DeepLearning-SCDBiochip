@@ -17,13 +17,12 @@ for biophysical classification of sickle red blood cells.‚Äù (In preparation)
 
 ## Getting Started 
 
-## Step by Step Pipeline
-
 To help with debugging and understanding the model and pipeline, there is one main script 
 ([Main.ipynb](https://github.com/hincz-lab/DeepLearning-SCDBiochip/blob/master/Main.ipynb)) that calls all of the 
-neccsesary functions to complete the pipeline. There is no need for user input in terms of deciding on specific parameter or model specifications. Below this text, we will present a walkthrough for the main script and provide a plethora 
-of visualizations, while also running the pipeline step by step to inspect the output at each point. Here is the step by step 
-walkthrough for the pipeline: 
+neccsesary functions to complete the pipeline. In addition, there is a corresponding Google Colab version
+([Main2_google-collab.ipynb](https://github.com/hincz-lab/DeepLearning-SCDBiochip/blob/master/Main2_google-collab.ipynb)).  There is no need for user input in terms 
+of deciding on specific parameter or model specifications. Below this text, we will present a walkthrough for the main script with visualizations. Here is the step 
+by step walkthrough for the pipeline: 
 
 ### Main Script 
 
@@ -67,15 +66,15 @@ Praljak N.,Iram S., Singh G., Hill A., Goreke U., Gurkan U., & Hinczewski M., ‚Ä
 Please contact Niksa Praljak, niksapraljak1 (at) gmail.com with questions or feedback. 
 
 
-## An Important Note About Using This Code 
+## Installation
+    
+To use DeepLearning-SCDBiochip functionality, please install within conda:
 
-If you want to compile this source code, please note that you will need access to the following proprietary computing utilities:
+```
+git clone https://github.com/hincz-lab/DeepLearning-SCDBiochip
 
-   - MATLAB (recommended R2019a edition)
-   - MATLAB Toolboxes:  
-     - Image Processing Toolbox
-     - Deep Learning Toolbox 
-     - Statistics and Machine Learning Toolbox
+pip install -r requirements.txt
+```
 ##
 
 Copyright 2020 Case Western Reserve University.  Patent pending.  All rights reserved.
