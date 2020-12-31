@@ -57,7 +57,7 @@ This work was supported by the Clinical and Translational Science Collaborative 
    
 ## How to Cite
 If you use any portion of this code or software in your research, please cite: 
-Praljak, Niksa, Shamreen Iram, Utku Goreke, Gundeep Singh, Ailis Hill, Umut A. Gurkan, and Michael Hinczewski. "Integrating deep learning with microfluidics for biophysical classification of sickle red blood cells." bioRxiv (2020).
+[Praljak, Niksa, Shamreen Iram, Utku Goreke, Gundeep Singh, Ailis Hill, Umut A. Gurkan, and Michael Hinczewski. "Integrating deep learning with microfluidics for biophysical classification of sickle red blood cells." bioRxiv (2020).](https://www.biorxiv.org/content/10.1101/2020.07.01.181545v1.abstract)
 ## Contact 
 Please contact Niksa Praljak, niksapraljak1 (at) gmail.com with questions or feedback. 
 
