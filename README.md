@@ -1,6 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hincz-lab/DeepLearning-SCDBiochip/blob/master/Main2_google-colab.ipynb)
-
-
 # Welcome to Integrating Deep Learning with Microfluidics for Biophysical Classification of Sickle Red Blood Cells Adhered to Laminin
 
 ## Introduction 
@@ -76,6 +73,9 @@ git clone https://github.com/hincz-lab/DeepLearning-SCDBiochip
 
 pip install -r requirements.txt
 ```
+
+A quick and easy walkthrough to monitor adhered sRBC on large whole microchannels, functionalized with laminin can be illustrated here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hincz-lab/DeepLearning-SCDBiochip/blob/master/Main2_google-colab.ipynb)
+
 ##
 
 Copyright 2020 Case Western Reserve University.  Patent pending.  All rights reserved.
