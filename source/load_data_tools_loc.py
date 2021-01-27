@@ -43,13 +43,13 @@ Loading the heavy model files ...
 """
 
 def model_output_names(Phase_num):
-    if Phase_num == 2:
+    if Phase_num == '2':
         output_names = [f'Phase{Phase_num}_Kfold-model_0.h5',
                                 f'Phase{Phase_num}_Kfold-model_1.h5',
                                 f'Phase{Phase_num}_Kfold-model_2.h5',
                                 f'Phase{Phase_num}_Kfold-model_3.h5',
                                 f'Phase{Phase_num}_Kfold-model_4.h5',]
-    elif Phase_num == 1:
+    elif Phase_num == '1':
             output_names = [f'Phase{Phase_num}_Kfold-model_0.h5',
                                 f'Phase{Phase_num}_Kfold-model_1.h5',
                                 f'Phase{Phase_num}_Kfold-model_2.h5',
